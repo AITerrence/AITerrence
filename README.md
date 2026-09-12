@@ -1,16 +1,53 @@
-## Hi there 👋
+Hi, I'm Terrence 👋
 
-<!--
-**AITerrence/AITerrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      Data Analytics • AI Engineering • Agentic AI
+          Tableau • Python • LangGraph • MCP
 
-Here are some ideas to get you started:
+-----------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+I'm a Data Analytics professional specializing in
+business intelligence, enterprise reporting, Tableau
+architecture, and AI-powered analytics.
+
+I'm currently expanding my work into AI Engineering,
+Agentic AI, RAG, MCP and enterprise AI automation.
+
+-----------------------------------------------------
+
+🚀 Current Focus
+
+🤖 Agentic AI
+🧠 Generative AI
+📊 AI-Powered Analytics
+🔗 Model Context Protocol (MCP)
+🐍 Python
+📈 Tableau
+❄️ Snowflake
+
+-----------------------------------------------------
+
+🛠️ Technology Stack
+
+AI & Agents
+OpenAI | LangGraph | RAG | MCP | Copilot Studio
+
+Analytics
+Tableau | Snowflake | SQL | Excel
+
+Development
+Python | Git | GitHub | VS Code | REST APIs
+
+Automation
+Power Automate | Dataverse | Microsoft AI
+
+-----------------------------------------------------
+
+🚀 Featured Projects
+
+• Tableau AI Analytics Agent
+• LangGraph Enterprise Data Agent
+• Tableau MCP Integration
+• RAG Analytics Assistant
+• AI-Powered PowerPoint Automation
